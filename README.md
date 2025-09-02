@@ -1,6 +1,6 @@
 # Desafio Indicium - Previsão de Nota IMDB
 
-##Instalação e execução
+## Instalação e execução
 
 ### 1. Clone o repositório
 ```bash
